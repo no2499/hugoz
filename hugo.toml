@@ -2,3 +2,25 @@ baseURL = 'https://560056.xyz/'
 languageCode = 'zh-tw'
 title = 'azo m'
 theme = 'PaperMod'
+
+# 以下內容請貼到你的 config.toml 檔案底部
+[params]
+    env = "production" # 建議設定為 "production"
+    defaultTheme = "light" # 預設主題 ("auto" 根據系統設定，"light", "dark")
+    disableThemeToggle = true # 允許使用者切換深色/淺色模式
+
+    [params.label]
+        text = "azo m"
+        icon = "/favicon.png"
+        iconHeight = 35 # 選填，控制導航欄圖標高度 (單位 px)
+
+    # 社交媒體圖標 (Social Icons)
+    #[[params.socialIcons]]
+    #    name = "github"
+    #    url = "https://github.com/your_username"
+
+    #[[params.socialIcons]]
+    #    name = "twitter"
+    #    url = "https://twitter.com/your_username"
+
+    # ... 其他更多 PaperMod 設定 ...
