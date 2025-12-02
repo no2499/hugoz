@@ -11,8 +11,8 @@ theme = 'PaperMod'
 
     [params.label]
         text = "azo m"
-        icon = "/favicon.png"
-        iconHeight = 35 # 選填，控制導航欄圖標高度 (單位 px)
+        icon = "/favicon.png" # 網站圖標路徑
+        iconHeight = 35
 
     # 社交媒體圖標 (Social Icons)
     #[[params.socialIcons]]
