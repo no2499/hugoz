@@ -1,6 +1,6 @@
 baseURL = 'https://azoazo.com/'
 languageCode = 'zh-tw'
-title = 'azo m'
+title = 'azo::想告別、偏未晚'
 theme = 'PaperMod'
 
 # 以下內容請貼到你的 config.toml 檔案底部
