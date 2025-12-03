@@ -24,3 +24,6 @@ theme = 'PaperMod'
     #    url = "https://twitter.com/your_username"
 
     # ... 其他更多 PaperMod 設定 ...
+[services]
+  [services.googleAnalytics]
+    id = 'G-4M0MLQ1EGY'
