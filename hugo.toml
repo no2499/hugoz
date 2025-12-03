@@ -1,6 +1,6 @@
 baseURL = 'https://azoazo.com/'
 languageCode = 'zh-tw'
-title = 'azo::想告別、偏未晚'
+title = 'azo::想告別偏未晚'
 theme = 'PaperMod'
 
 # 以下內容請貼到你的 config.toml 檔案底部
@@ -10,7 +10,7 @@ theme = 'PaperMod'
     disableThemeToggle = true # 允許使用者切換深色/淺色模式
 
     [params.label]
-        text = "azo::想告別、偏未晚"
+        text = "azo::想告別偏未晚"
         icon = "/favicon.png" # 網站圖標路徑
         iconHeight = 35
 
