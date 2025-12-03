@@ -1,9 +1,7 @@
 +++
 date = '2025-12-04T00:56:41+08:00'
 draft = false
-title = '買好新網址了 azoazo.com '
-tags: [talk]
-category: talk
+title = '買好新網址了 azoazo.com'
 +++
 ## 新的網址
 新網址 [azoazo.com](https://azoazo.com/) 已經設定好了，找不到特別便宜的地方買，還是用最近比較喜歡的 [spaceship](https://spaceship.com) 購入，稍微設定一下就上線了，新網址正式在 2025.12.04 啟用。  
