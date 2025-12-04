@@ -10,3 +10,4 @@ menu:
 ---
 
 ## hihi 我是 azo  
+我的 email 是：[aazzooccoomm@gmail.com](mailto:aazzooccoomm@gmail.com) 隨時寫電子郵件給我，在這個快速的時代維持一點老派來往的必要！
