@@ -2,7 +2,7 @@
 title: "文章歸檔"
 layout: archives
 hidden: true
-type: posts
+type: "page"
 summary: arichives
 url: /archives/
 menu:
