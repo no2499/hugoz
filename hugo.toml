@@ -27,3 +27,6 @@ theme = 'PaperMod'
 [services]
   [services.googleAnalytics]
     id = 'G-4M0MLQ1EGY'
+[taxonomies]
+  category = "categories"  # 保留預設
+  tag      = "tags"        # 保留預設

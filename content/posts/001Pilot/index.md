@@ -4,5 +4,6 @@ draft = false
 title = '001 試播集'
 tags = ["talk"]
 categories = ["talk"]
+image = "d.jpg"
 +++
 TEST  
