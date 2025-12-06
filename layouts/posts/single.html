@@ -12,11 +12,13 @@
 
     <section class="post-content">
         {{ .Content }}
+
+        {{ partial "author-card.html" . }}
     </section>
 
     {{ with .Params.tags }}
         <div class="tags">
-            標籤:
+            標籤：
             {{ range . }}
                 <a href="{{ "/tags/" | relLangURL }}{{ . | urlize }}">{{ . }}</a>
             {{ end }}

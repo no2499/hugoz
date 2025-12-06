@@ -30,3 +30,15 @@ theme = 'PaperMod'
 [taxonomies]
   category = "categories"  # 保留預設
   tag      = "tags"        # 保留預設
+[params.author]
+  name = "azo"
+  # 建議頭像放正方形，路徑放在 static/images/avatar.jpg
+  avatar = "favicon.png" 
+  bio = "你好，這是我的BLOG，紀錄一些生活想法以及各種創作，歡迎隨時用下面的資訊和我聯絡。"
+  
+  # 社群連結 (留空則不顯示)
+  email = "aazzooccoomm@gmail.com"
+  instagram = "https://instagram.com/azo.ccoomm"
+  threads = "https://www.threads.net/@azo.ccoomm"
+  github = "https://github.com/azoazocom"
+  website = "https://azoazo.com"
