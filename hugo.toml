@@ -34,7 +34,7 @@ theme = 'PaperMod'
   name = "azo"
   # 建議頭像放正方形，路徑放在 static/images/avatar.jpg
   avatar = "favicon.png" 
-  bio = "你好，這是我的BLOG，紀錄一些生活想法以及各種創作，歡迎隨時用下面的資訊和我聯絡。"
+  bio = "紀錄一些生活想法以及各種創作，歡迎隨時用下面的資訊和我聯絡。"
   
   # 社群連結 (留空則不顯示)
   email = "aazzooccoomm@gmail.com"
