@@ -36,7 +36,9 @@ image = ""
 希望身邊的每個朋朋都能快樂順遂，然後這篇文章的最下方可以訂閱趕快訂閱起來拜託你了，2025 快結束了我也要趕快找時間來清理一下這一整年所有的事情，掰噗。  
 隨時可以寫 email、ig 給我，如果想要聊聊  
 MAIL TO : [aazzooccoomm@gmail.com](mailto:aazzooccoomm@gmail.com)  
-IG ： [azo.ccoomm](https://www.instagram.com/azo.ccoomm/)
+IG ： [azo.ccoomm](https://www.instagram.com/azo.ccoomm/)  
+  
+  
 **美好的假期又睡了一整天，出門已經傍晚順手拍了幾張覺得不錯的照片，至少今天不是一無所獲。**
 ![](https://cdn.jsdelivr.net/gh/no2498/pichome@main/img/IMG_6669.JPG)
 ![](https://cdn.jsdelivr.net/gh/no2498/pichome@main/img/IMG_6673.JPG)
