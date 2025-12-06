@@ -5,7 +5,7 @@ title = 'No.002 聰明是種詛咒嗎'
 tags = ["talk"]
 categories = ["2025","talk"]
 series = [] 
-description = ""
+description = "無用之用"
 slug = ""
 image = ""
 +++
