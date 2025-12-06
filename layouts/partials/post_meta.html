@@ -1,0 +1,16 @@
+{{- $scratch := newScratch }}
+
+{{- /* 1. 處理日期 */ -}}
+{{- if not .Date.IsZero -}}
+  {{- $scratch.Add "meta" (slice (.Date.Format (default "January 2, 2006" .Site.Params.DateFormat))) }}
+{{- end }}
+
+{{- /* 2. 處理閱讀時間 (如果有開啟的話) */ -}}
+{{- if (.Param "ShowReadingTime") -}}
+  {{- $scratch.Add "meta" (slice (i18n "read_time" .ReadingTime | default (printf "%d min" .ReadingTime))) }}
+{{- end }}
+
+{{- /* 3. 輸出結果，中間用 · 分隔 */ -}}
+{{- with ($scratch.Get "meta") }}
+  {{- delimit . "&nbsp;·&nbsp;" -}}
+{{- end -}}
