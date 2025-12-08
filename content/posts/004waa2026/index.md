@@ -1,7 +1,7 @@
 +++
 date = '2025-12-08T18:31:09+08:00'
 draft = false
-title = '魏如萱 waa wei〈怪奇的珍珠〉巡迴演唱會 售票情況不妙啊'
+title = 'No.004 魏如萱 waa wei〈怪奇的珍珠〉巡迴演唱會 售票情況不妙啊'
 tags = ["concert"]
 categories = ["2025","concert"]
 series = ["concert"] 
