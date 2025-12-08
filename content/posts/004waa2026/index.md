@@ -50,5 +50,6 @@ image = "https://pub-e2f496240e5847bdb4a88a722f1c7cd6.r2.dev/2025/12/50f39c909c0
   
 陸續還會寫寫這幾年參加的表演，趕快訂閱 我們下次見。  
 
-> “I am a slow walker, but I never walk back.”
+> “I am a slow walker, but I never walk back.”  
+>   
 > — Abraham Lincoln
