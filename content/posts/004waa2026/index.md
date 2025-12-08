@@ -24,7 +24,7 @@ image = ""
 ![](https://cdn.jsdelivr.net/gh/no2498/pichome@main/img/%E6%88%AA%E5%9C%96%202025-12-08%20%E4%B8%8B%E5%8D%886.37.37.png)  
 ![](https://cdn.jsdelivr.net/gh/no2498/pichome@main/img/%E6%88%AA%E5%9C%96%202025-12-08%20%E4%B8%8B%E5%8D%886.38.00.png)  
 
-## 上次〈HAVE A NICE :DAY 2 YOU〉演唱會 2023/05/14 (Day2)
+## 上次小巨蛋〈HAVE A NICE :DAY 2 YOU〉演唱會 2023/05/14 (Day2)
 當年在推特上發現有演唱會，前一天臨時去 PTT 轉票板收了一張票，因為沒什麼人要釋出所以只買到山頂（感謝好心鄉民轉讓），這次是我第一次現場看 Waa 個人的演唱會，看完之後覺得現場真是有夠讚、歌單好喜歡。  
   
 小巨蛋剛進場的時候：  
