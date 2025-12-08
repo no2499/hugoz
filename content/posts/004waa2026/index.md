@@ -7,7 +7,7 @@ categories = ["2025","concert"]
 series = ["concert"] 
 description = "完惹"
 slug = ""
-image = ""
+image = "https://pub-e2f496240e5847bdb4a88a722f1c7cd6.r2.dev/2025/12/50f39c909c0ce4e21ba4ba4e7909a392.jpg"
 +++
 ![](https://pub-e2f496240e5847bdb4a88a722f1c7cd6.r2.dev/2025/12/50f39c909c0ce4e21ba4ba4e7909a392.jpg)  
 ## 魏如萱 2026 waa wei 〈怪奇的珍珠〉巡迴演唱會 小巨蛋 
