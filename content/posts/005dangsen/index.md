@@ -1,7 +1,7 @@
 +++
 date = '2025-12-09T16:41:46+08:00'
 draft = false
-title = 'No.005 有史以來最小氣的行銷 (三商巧福)'
+title = 'No.005 激怒行銷 (三商巧福)'
 tags = ["suck"]
 categories = ["2025","suck"]
 series = [] 
