@@ -7,7 +7,7 @@ categories = ["2025","suck"]
 series = [] 
 description = "盪森巧福"
 slug = ""
-image = "ds.jpg"
+image = ""
 +++
 ![](https://cdn.jsdelivr.net/gh/no2498/pichome@main/img/588068242_17932327293116386_4083639088321621077_n.jpg)  
 ## 三商巧福 2025/12/09 開始的週年慶首日活動
