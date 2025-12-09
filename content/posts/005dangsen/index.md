@@ -5,9 +5,9 @@ title = 'No.005 有史以來最小氣的行銷 (三商巧福)'
 tags = ["suck"]
 categories = ["2025","suck"]
 series = [] 
-description = ""
+description = "盪森巧福"
 slug = ""
-image = ""
+image = "ds.jpg"
 +++
 ![](https://cdn.jsdelivr.net/gh/no2498/pichome@main/img/588068242_17932327293116386_4083639088321621077_n.jpg)
 ## 三商巧福 2025/12/09 開始的週年慶首日活動
