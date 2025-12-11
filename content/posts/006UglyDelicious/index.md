@@ -11,7 +11,7 @@ image = ""
 +++
 ![](https://cdn.jsdelivr.net/gh/no2498/pichome@main/img/%E6%88%AA%E5%9C%96%202025-12-11%20%E6%99%9A%E4%B8%8A8.13.12.png)
 ## Ugly Delicious ?
-這幾天在 threads 上面一直看到爭議很大的蛋糕工作室 >> ["登愣"](https://www.threads.com/@_dengleng/post/DR18iBwkoJm)   ["IG"](https://www.instagram.com/_dengleng/)  
+這幾天在 threads 上面一直看到爭議很大的蛋糕工作室 >> ["(吵架文快速連結) 登愣"](https://www.threads.com/@_dengleng/post/DR18iBwkoJm)   ["IG"](https://www.instagram.com/_dengleng/)  
 因為他們的蛋糕造型是非典型的外觀，所以有正反雙方在網路上大戰，除了很明顯的瑕疵：公司登記、食品登記、食品衛生、這些法規面的事情待改善以外，蛋糕口味也兩極化評價，除此之外想來聊聊這種蛋糕可以當作藝術品來看待嗎？還是要符合一定的規範來製作才是好蛋糕？  
   
 ## 介紹一下類似相關的品牌
