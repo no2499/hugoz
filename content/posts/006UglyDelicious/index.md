@@ -20,8 +20,8 @@ image = ""
 - ["Chaotic Cake"](https://www.aimeefrance.com)
     以 Chaotic Cake 為風格的代表，看名字就知道會很混亂，今天討論的這家看起來也是偏向這風格
   
-![](https://cdn.jsdelivr.net/gh/no2498/pichome@main/img/591152685_18298611979259184_2496309239887847646_n.jpg)
 ## 是食物還是藝術品？
+![](https://cdn.jsdelivr.net/gh/no2498/pichome@main/img/591152685_18298611979259184_2496309239887847646_n.jpg)
 - 以"藝術品"來看待  
     1. 醜是一種風格：現代的審美都專注於對稱、完美的形狀，很醜的東西反而會產生驚喜感。
     2. 獨一無二的產品：買不到同樣的東西造成的感覺。
