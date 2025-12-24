@@ -1,7 +1,7 @@
 +++
 date = '2025-12-24T20:49:23+08:00'
 draft = false
-title = 'No.007 2025 聖誕節'
+title = 'No.007 2025 聖誕節「感謝人生無常這回事」'
 tags = ["talk"]
 categories = ["2025","talk"]
 series = [] 
