@@ -15,6 +15,6 @@ image = ""
   
 三年前 2022 的聖誕節，對我來說是很重要的一天，我好想念那一天真想回到過去，但過去了就讓它過去吧。  
   
-「感謝人生無常這回事」，祝大家聖誕節快樂。
+「感謝人生無常這回事」，祝大家**聖誕節快樂**。
 ![](https://cdn.jsdelivr.net/gh/no2498/pichome@main/img/IMG_8098.heic)
 ![](https://cdn.jsdelivr.net/gh/no2498/pichome@main/img/IMG_8060.HEIC)
