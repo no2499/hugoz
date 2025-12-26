@@ -26,7 +26,7 @@ image = ""
   
 ## 高雄巧遇蔡英文
 巧遇，沒想到會這麼矮
-![](https://cdn.jsdelivr.net/gh/no2498/pichome@main/img/IMG_4537.JPG)  
+![](https://cdn.jsdelivr.net/gh/no2498/pichome@main/img/tsai.jpg)  
   
 ## 大港開唱
 也參加了幾次了，明年 2026 門票已經買好，至於有什麼團參與其實對我來說還好，就每年固定時間去高雄度假一下，順便看看高雄有沒有什麼新的改變。
