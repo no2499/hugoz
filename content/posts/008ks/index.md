@@ -24,7 +24,7 @@ image = ""
   
 ![](https://cdn.jsdelivr.net/gh/no2498/pichome@main/img/FJ-KH-KV-Final-MG-001-001.jpg)  
   
-## 高雄巧遇蔡英文
+## 高雄野生蔡英文
 巧遇，沒想到會這麼矮
 ![](https://cdn.jsdelivr.net/gh/no2498/pichome@main/img/tsai.jpg)  
   
@@ -39,7 +39,7 @@ image = ""
 第一次見到廣末涼子可能也是最後一次了，隨後回日本馬上發生醜聞  
 ![](https://cdn.jsdelivr.net/gh/no2498/pichome@main/img/IMG_6862.HEIC)  
   
-## 澄清湖金娜妍
+## 澄清湖野生金娜妍
 ![](https://cdn.jsdelivr.net/gh/no2498/pichome@main/img/IMG_3572.HEIC)  
 去澄清湖看球剛好遇到野生娜妍，真可愛。  
 
