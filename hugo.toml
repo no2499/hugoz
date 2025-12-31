@@ -42,3 +42,7 @@ theme = 'PaperMod'
   threads = "https://www.threads.net/@azo.ccoomm"
   github = "https://github.com/azoazocom"
   website = "https://azoazo.com"
+[params.analytics.umami]
+  enabled = true
+  url = "https://umami.migi.cc/script.js"
+  websiteId = "478f171a-41a8-41cd-a422-841b7cda66be"
