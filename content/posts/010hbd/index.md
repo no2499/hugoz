@@ -23,5 +23,6 @@ image = ""
   
 願你在你的季節裡，依然擁有一束不被打擾的光。  
   
-> 如果你在前方回頭 而我亦回頭 我們就錯過。 -安溥 豔火
-![](https://cdn.jsdelivr.net/gh/no2498/pichome@main/img/IMG_1052.MOV)
+> **如果你在前方回頭 而我亦回頭 我們就錯過。 -安溥 豔火**  
+  
+{{< videojs src="https://pub-e2f496240e5847bdb4a88a722f1c7cd6.r2.dev/2026/01/42f8728c21134ad44f682feead0a70a1.MOV" ratio="9:16" >}}
