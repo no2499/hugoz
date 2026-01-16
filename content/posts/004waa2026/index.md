@@ -28,16 +28,16 @@ image = "https://pub-e2f496240e5847bdb4a88a722f1c7cd6.r2.dev/2025/12/50f39c909c0
 當年在推特上發現有演唱會，前一天臨時去 PTT 轉票板收了一張票，因為沒什麼人要釋出所以只買到山頂（感謝好心鄉民轉讓），這次是我第一次現場看 Waa 個人的演唱會，看完之後覺得現場真是有夠讚、歌單好喜歡。  
   
 小巨蛋剛進場的時候：  
-![](https://cdn.jsdelivr.net/gh/no2498/pichome@main/img/IMG_5594.HEIC)  
+![](https://cdn.jsdelivr.net/gh/no2498/pichome@main/img/IMG_5594.jpg)  
 
 山頂：  
 ![](https://cdn.jsdelivr.net/gh/no2498/pichome@main/img/IMG_5643.JPG)  
   
 喜歡的香格里拉：  
-![](https://pub-e2f496240e5847bdb4a88a722f1c7cd6.r2.dev/2025/12/IMG_5626.MOV)  
+{{< videojs src="https://pub-e2f496240e5847bdb4a88a722f1c7cd6.r2.dev/2025/12/IMG_5626.MOV" ratio="9:16" >}}  
   
 結尾 TALK：  
-![](https://pub-e2f496240e5847bdb4a88a722f1c7cd6.r2.dev/2025/12/3f11dd89a651370cad33dc88d18ed50b.MOV)  
+{{< videojs src="https://pub-e2f496240e5847bdb4a88a722f1c7cd6.r2.dev/2025/12/3f11dd89a651370cad33dc88d18ed50b.MOV" ratio="9:16" >}}  
 
 沒錄到我最喜歡的**竊笑**，希望這次演唱會歌單裡面還會有。  
 

@@ -36,4 +36,4 @@ image = ""
   
 ## 後記
 冬天的公園小朋友明顯比較少，可以放心放空和溜滑梯，今天廢文到此告一段落我們下次見。
-![](https://cdn.jsdelivr.net/gh/no2498/pichome@main/img/IMG_6953.HEIC)
+![](https://cdn.jsdelivr.net/gh/no2498/pichome@main/img/IMG_6953.jpg)
