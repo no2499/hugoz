@@ -28,4 +28,5 @@ image = ""
 ## 最後的最後
 No.11 難產中還在寫，所以先跳 No.12。  
 最近比較想清楚自己想要什麼了，希望今年能順順利利，祝大家新年快樂馬年行大運。  
+我的 discord 帳號是 aazzoo5566，歡迎加加聊天。  
 ![](https://cdn.jsdelivr.net/gh/no2498/pichome@main/img/%E7%96%B2%E5%8B%9E%E6%88%B0%E5%A3%AB.jpg)
