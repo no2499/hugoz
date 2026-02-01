@@ -7,7 +7,7 @@ categories = ["2026","talk"]
 series = [] 
 description = ""
 slug = ""
-image = ""
+image = "https://cdn.jsdelivr.net/gh/no2498/pichome@main/img/%E7%96%B2%E5%8B%9E%E6%88%B0%E5%A3%AB.jpg"
 +++
 ## 2026 第五週過去啦
 一月就這樣結束了，今年一月過得不順，除了身體受傷外，其他也被一堆雜事困擾著，希望二月會更好。
