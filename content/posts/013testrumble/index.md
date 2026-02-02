@@ -21,3 +21,5 @@ image = ""
 <div id="rumble_v7309fk"></div>
 <script>
 Rumble("play", {"video":"v7309fk","div":"rumble_v7309fk"});</script>
+
+{{< rumble id="v7309fk" pub="4okpxs" >}}
