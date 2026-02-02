@@ -22,4 +22,5 @@ image = ""
 <script>
 Rumble("play", {"video":"v7309fk","div":"rumble_v7309fk"});</script>
 
-{{< rumble id="v7309fk" pub="4okpxs" >}}
+沒有你的台北，只有雨天  
+{{< rumble id="v730bh8" pub="4okpxs" >}}
