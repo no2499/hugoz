@@ -46,3 +46,6 @@ theme = 'PaperMod'
   enabled = true
   url = "https://umami.migi.cc/script.js"
   websiteId = "478f171a-41a8-41cd-a422-841b7cda66be"
+
+[markup.goldmark.renderer]
+  unsafe = true
