@@ -24,3 +24,6 @@ Rumble("play", {"video":"v7309fk","div":"rumble_v7309fk"});</script>
 
 沒有你的台北，只有雨天  
 {{< rumble id="v730bh8" pub="4okpxs" >}}
+  
+你講的話，LALA
+{{< rumble id="v730bv2" pub="4okpxs" >}}
